@@ -1,4 +1,7 @@
-# Income-Classification
+<img src = "Capture.png"> 
+  
+    
+   # Income-Classification
 **Predicting if income exceeds $50,000 per year based on 1994 US Census Data with Simple Classification Techniques**    
   
     
