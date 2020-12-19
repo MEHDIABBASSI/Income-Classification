@@ -1,4 +1,4 @@
-<img src = "Capture.png"> 
+<img src = "Capture.PNG"> 
   
     
    # Income-Classification
